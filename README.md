@@ -1,6 +1,10 @@
 # hello-world
+<<<<<<< HEAD
 This is a repository for testing hello-world.(2)
 (4)
+=======
+This is a repository for testing hello-world.(3)
+>>>>>>> origin/test
 
 # Markdown Cheat Sheet
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. But note it can’t cover every edge case.
